@@ -1,0 +1,127 @@
+
+
+#EXTM3U
+#EXT -X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF :-1,T-Sports
+http://live.globalflix.net:80/nazmul/nazmul/1.m3u8
+#EXTINF :-1,BEK TV Sports West (720p)
+http://live.globalflix.net:80/nazmul/nazmul/7.m3u8
+#EXTINF :-1,Ru Sport
+http://live.globalflix.net: 80/nazmul/nazmul/8.m3u8
+#EXTINF :-1,Türkmenistan Sport
+http://live.globalflix.net:80/nazmul/nazmul/12.m3u8
+#EXTINF :-1,Red Bull TV (720p)
+http: //live.globalflix.net:80/nazmul/nazmul/16.m3u8
+#EXTINF :-1,J Sports 1 (480p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul /23.m3u8
+#EXTINF :-1,J Sports 3 (480p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/25.m3u8
+#EXTINF :-1,KSA Sports 1 (1080p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/26.m3u8
+#EXTINF :-1,KSA Sports 4 (1080p) [Não 24/7]
+http:// live.globalflix.net:80/nazmul/nazmul/38.m3u8
+#EXTINF :-1,Sports TV (720p) [bloqueado geograficamente]
+http://live.globalflix.net:80/nazmul/nazmul/39.m3u8
+#EXTINF :-1,Sport En France (720p)
+http://live.globalflix.net:80/nazmul/nazmul/45.m3u8
+#EXTINF :-1,1+1 Спорт (720p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/52.m3u8
+#EXTINF :-1,Abu Dhabi Sports 1 (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/53. m3u8
+#EXTINF :-1,Abu Dhabi Sports 2 (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/54.m3u8
+#EXTINF :-1,ACI Sport TV (1080p)
+http://live .globalflix.net:80/nazmul/nazmul/56.m3u8
+#EXTINF :-1,Alfa Sport (1080p) [Não 24 horas por dia, 7 dias por semana]
+http://live.globalflix.net:80/nazmul/nazmul/60.m3u8
+#EXTINF :-1,Todos os esportes (720p)
+http://live.globalflix.net:80/nazmul/nazmul/61.m3u8
+#EXTINF :-1,Bahrain Sports 1 (720p) [Não 24/7]
+http: //live.globalflix.net:80/nazmul/nazmul/64.m3u8
+#EXTINF :-1,Bahrain Sports 2 (720p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul /65.m3u8
+#EXTINF :-1,CampusLore (720p)
+http://live.globalflix.net:80/nazmul/nazmul/68.m3u8
+#EXTINF :-1,CnAr Deportes (1440p)
+http://live. globalflix.net:80/nazmul/nazmul/72.m3u8
+#EXTINF :-1,Contacto Deportivo (720p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/73.m3u8
+# EXTINF :-1,DSTV (720p)
+http://live.globalflix.net:80/nazmul/nazmul/79.m3u8
+#EXTINF:-1,Dubai Racing 2 (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/81.m3u8
+#EXTINF :-1,Dubai Racing 3 (1080p)
+http://live.globalflix.net :80/nazmul/nazmul/82.m3u8
+#EXTINF :-1,Dubai Sports 2 (720p)
+http://live.globalflix.net:80/nazmul/nazmul/85.m3u8
+#EXTINF :-1,Dubai Sports 3 (1080p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/86.m3u8
+#EXTINF :-1,Esports Max [Não 24/7]
+http://live.globalflix. net:80/nazmul/nazmul/89.m3u8
+#EXTINF :-1,Fite (720p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/96.m3u8
+#EXTINF :- 1,FTV (720p)
+http://live.globalflix.net:80/nazmul/nazmul/98.m3u8
+#EXTINF :-1,İdman TV
+http://live.globalflix.net:80/nazmul/nazmul/106 .m3u8
+#EXTINF :-1,IMPACT Wrestling (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/107.m3u8
+#EXTINF :-1,J Sports 1 (480p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/109.m3u8
+#EXTINF :-1,J Sports 2 (480p) [Não 24/7]
+http://live.globalflix.net:80/nazmul /nazmul/110.m3u8
+#EXTINF :-1,J Sports 3 (480p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/111.m3u8
+#EXTINF :-1,KBP Esportes (720p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/114.m3u8
+#EXTINF :-1,KSA Sports 2 (1080p) [Não 24/7]
+http:/ /live.globalflix.net:80/nazmul/nazmul/115.m3u8
+#EXTINF :-1,KSA Sports 3 (1080p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/ 116.m3u8
+#EXTINF :-1,MadeinBO TV (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/119.m3u8
+#EXTINF :-1,Monterrico TV (1080p) [Não 24/7]
+http://live.globalflix.net:80/nazmul/nazmul/123.m3u8
+#EXTINF :-1,Mais que TV esportiva (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/124. m3u8
+#EXTINF :-1,NW Sport 1 (576p)
+http://live.globalflix.net:80/nazmul/nazmul/130.m3u8
+#EXTINF :-1,NW Sport 2 (576p)
+http://live. globalflix.net:80/nazmul/nazmul/131.m3u8
+#EXTINF :-1,One Golf
+http://live.globalflix.net:80/nazmul/nazmul/132.m3u8
+#EXTINF :-1,Ovacion TV (720p ) [Não 24 horas por dia, 7 dias por semana]
+http://live.globalflix.net:80/nazmul/nazmul/134.m3u8
+#EXTINF :-1, Racing.com (720p)
+http://live.globalflix.net:80/ nazmul/nazmul/151.m3u8
+
+#EXTINF :-1,Realitatea Sportivă (720p)
+http://live.globalflix.net:80/nazmul/nazmul/153.m3u8
+#EXTINF :-1,Red Bull TV (1080p)
+http://live.globalflix. net:80/nazmul/nazmul/154.m3u8
+#EXTINF :-1,RTA Sports
+http://live.globalflix.net:80/nazmul/nazmul/155.m3u8
+#EXTINF :-1,San Marino RTV Sport (720p )
+http://live.globalflix.net:80/nazmul/nazmul/156.m3u8
+#EXTINF :-1,Sharjah Sports TV (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/157. m3u8
+#EXTINF :-1,SportyStuff TV (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/172.m3u8
+#EXTINF :-1,SSC Action Waleed (1080p) [Não 24/7]
+http ://live.globalflix.net:80/nazmul/nazmul/175.m3u8
+#EXTINF :-1,Swerve Sports (1080p)
+http://live.globalflix.net:80/nazmul/nazmul/180.m3u8
+#EXTINF :-1,TVRI Sport (720p)
+http://live.globalflix.net:80/nazmul/nazmul/210.m3u8
+#EXTINF :-1,TVS Boxe (360p)
+http://live.globalflix.net:80 /nazmul/nazmul/211.m3u8
+#EXTINF :-1,Invicto
+http://live.globalflix.net:80/nazmul/nazmul/217.m3u8
+#EXTINF :-1,ViX Lo Mejor De La Liga MX
+http:/ /live.globalflix.net:80/nazmul/nazmul/220.m3u8
+#EXTINF :-1,W14DK-D 14,5 Rede de televisão totalmente esportiva
+http://live.globalflix.net:80/nazmul/nazmul/221.m3u8
+# EXTINF :-1,TUDN
+http://live.globalflix.net:80/nazmul/nazmul/278.m3u8
+#EXTINF :-1,bEIN
+http://live.globalflix.net:80/nazmul/nazmul/366. m3u8
